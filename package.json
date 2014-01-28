@@ -1,0 +1,13 @@
+{
+  "name": "grunterjs",
+  "description": "Compile directory of .js files into a single .js file",
+  "author": "Eric Haugen; modified from Writing an Awesome Build Script with Grunt (http://www.sitepoint.com/writing-awesome-build-script-grunt/) by Landon Schropp (http://landonschropp.com)",
+  "dependencies": {
+    "grunt": "0.x.x",
+    "grunt-contrib-clean": "0.5.x",
+    "grunt-contrib-copy": "0.4.x",
+    "grunt-contrib-uglify": "0.2.x",
+    "grunt-contrib-watch": "0.5.x"
+  },
+  "engine": "node >= 0.10"
+}
